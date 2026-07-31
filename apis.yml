@@ -1,7 +1,18 @@
 aid: oneshield
-name: Oneshield
-description: Oneshield is a company surfaced as a portfolio company of earlybird and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: OneShield
+description: >-
+  OneShield Software provides core insurance platform solutions for property and
+  casualty (P&C) insurers, managing general agents (MGAs), program administrators,
+  and insurance startups. Its two platforms — OneShield Enterprise, a comprehensive
+  cloud/SaaS core suite, and OneShield Market Solutions (OMS), a preconfigured SaaS
+  offering — cover policy administration, billing, claims, rating, product
+  configuration, relationship management, business intelligence, and analytics
+  across more than 90 lines of business. OneShield exposes RESTful and SOAP
+  integration services (XML/JSON) through its Services Designer and OMS API
+  integration suite, but publishes no public developer portal or OpenAPI; API
+  access is provisioned to customers and implementation partners. Headquartered in
+  Marlborough, Massachusetts with offices in India, OneShield is backed by
+  investors including Bain Capital and Earlybird Venture Capital.
 url: https://raw.githubusercontent.com/api-evangelist/oneshield/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +20,57 @@ x-backed-by:
 - earlybird
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://oneshield.com/wp-content/uploads/2022/10/OS_logo_new.svg
 tags:
 - Company
+- Insurance
+- InsurTech
+- Property and Casualty
+- Policy Administration
+- Billing
+- Claims
+- Core Systems
+- SaaS
+- MGA
 apis: []
+common:
+- type: DomainSecurity
+  url: security/oneshield-domain-security.yml
+- type: LLMsTxt
+  url: llms/oneshield-llms.txt
+- type: Website
+  url: https://oneshield.com/
+- type: About
+  url: https://oneshield.com/about/
+- type: Blog
+  url: https://oneshield.com/knowledge-hub/
+- type: Support
+  url: https://oneshield.com/services/support/
+- type: PrivacyPolicy
+  url: https://oneshield.com/privacy-policy/
+- type: SignUp
+  url: https://oneshield.com/os-demo/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

@@ -1,0 +1,19 @@
+# OneShield
+
+> OneShield Software provides core insurance platform solutions for property and casualty (P&C) insurers, managing general agents (MGAs), program administrators, and insurance startups. Its OneShield Enterprise and OneShield Market Solutions (OMS) platforms cover policy administration, billing, claims, rating, product configuration, and analytics across 90+ lines of business, exposing RESTful and SOAP integration services (XML/JSON). API access is provisioned to customers and partners; there is no public developer portal or OpenAPI.
+
+## Products
+- [OneShield Enterprise](https://oneshield.com/products-our-solutions/oneshield-enterprise-solution/enterprise-overview/): Comprehensive cloud/SaaS core insurance suite.
+- [OneShield Market Solutions (OMS)](https://oneshield.com/products-our-solutions/oneshield-market-solutions/): Preconfigured SaaS with an API integration suite for policy, billing, and claims.
+- [Products overview](https://oneshield.com/products-our-solutions/): Full product and solution catalog.
+
+## Docs
+- [Knowledge Hub](https://oneshield.com/knowledge-hub/): Resources, case studies, and datasheets.
+- [AI Hub](https://oneshield.com/oneshield-ai-hub/): OneShield AI capabilities.
+- [Support](https://oneshield.com/services/support/): Customer and developer support (support@oneshield.com).
+
+## Company
+- [About](https://oneshield.com/about/): Company overview and leadership.
+- [Partners](https://oneshield.com/partners/partnering-with-oneshield/technology-partners/): Technology and implementation partners.
+- [Contact / Demo](https://oneshield.com/os-demo/): Request a demo.
+- [Privacy Policy](https://oneshield.com/privacy-policy/)
